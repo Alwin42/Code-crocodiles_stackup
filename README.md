@@ -2,6 +2,9 @@
 #Task Management 
 A task management web application is a software solution designed to help individuals or teams organize, track, and collaborate on tasks and projects in an efficient and systematic manner. These web apps are accessible through internet browsers, making them convenient for users to manage their tasks from various devices. 
 
+project is not completed yet. 
+Back end is on progress..
+
 
 ## Team members
 1. Joseph Shibu [https://github.com/SharkSpidy]
