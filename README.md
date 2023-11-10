@@ -1,15 +1,19 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
-# Project Name
-Long Description about project. This project do that. This project is awesome...
+#Task Management 
+A task management web application is a software solution designed to help individuals or teams organize, track, and collaborate on tasks and projects in an efficient and systematic manner. These web apps are accessible through internet browsers, making them convenient for users to manage their tasks from various devices. 
+
+
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. Joseph Shibu [https://github.com/SharkSpidy]
+2. Alwin Emmanuel [https://github.com/Alwin42]
+3. Shahrukh Davood [https://github.com/Shakmoot]
+4. Sreeram v Gopal [https://github.com/SR-005]
 ## Team Id
-Team id here
+code-crocrodiles
 ## Link to product walkthrough
 [link to video]
 ## How it Works ?
-1. Explaining the working of project
+1. It has a Home page to register for new user's and also have Log in feature and user have access to create and edit Tasks. 
 2. Embed video of project demo
 ## Libraries used
 Library Name - Version
