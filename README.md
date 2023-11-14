@@ -23,9 +23,9 @@ code-crocrodiles
 2. pillow
 3. mysql-connector
 ## How to configure
--pip install tk
--pip install tkinter
--pip install pillow
--pip install mysql-connector
+1. pip install tk
+2. pip install tkinter
+3. pip install pillow
+4. pip install mysql-connector
 ## How to Run
 Instructions for running
