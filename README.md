@@ -19,13 +19,13 @@ code-crocrodiles
 1. It has a Home page to register for new user's and also have Log in feature and user have access to create and edit Tasks. 
 2. Embed video of project demo
 ## Libraries used
-tkinter
-pillow
-mysql-connector
+-tkinter
+-pillow
+-mysql-connector
 ## How to configure
-pip install tk
-pip install tkinter
-pip install pillow
-pip install mysql-connector
+-pip install tk
+-pip install tkinter
+-pip install pillow
+-pip install mysql-connector
 ## How to Run
 Instructions for running
